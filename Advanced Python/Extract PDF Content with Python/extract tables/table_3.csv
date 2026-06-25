@@ -1,0 +1,6 @@
+Invoice#,Client,Date,Amount,Status
+INV-001,Apex Corp,2026-01-10,"$12,400",Paid
+INV-002,Bright Ltd,2026-01-18,"$8,750",Pending
+INV-003,Clearview Inc,2026-02-03,"$22,100",Paid
+INV-004,Dawnrise LLC,2026-02-14,"$5,300",Overdue
+INV-005,Echofin Co,2026-03-01,"$17,800",Paid

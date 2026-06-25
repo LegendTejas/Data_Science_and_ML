@@ -1,0 +1,6 @@
+Ticket#,Summary,Priority,Assigned,SLA Status
+TKT-201,Login failure on VPN,High,David Chen,Breached
+TKT-202,Slow report generation,Medium,Eva Müller,On Track
+TKT-203,Printer offline – Floor 3,Low,Bob Martinez,Met
+TKT-204,Cloud storage quota hit,High,Alice Johnson,On Track
+TKT-205,Email sync error – Outlook,Medium,Clara Singh,On Track
